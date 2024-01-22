@@ -8,4 +8,6 @@ Working on prop drilling, component composition, proptypes with a movie rating a
 
 ## French
 
+Apprentissage de React à travers plusieurs petits projets.
+
 Travail sur le prop drilling, la composition des composants, les proptypes avec un application de rating de films.
